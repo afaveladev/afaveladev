@@ -24,8 +24,6 @@
 - 📊 [Aplicación de Reportes con JavaScript](#)  
 - ⚙️ [Proyecto Arduino Smart Car](#)
 
-> *(Puedo personalizar estos enlaces cuando tengas los repos públicos que quieras destacar)*
-
 ---
 
 ### 📊 Mis estadísticas en GitHub
@@ -37,10 +35,8 @@
 
 ### 🌎 Encuéntrame en
 
-📧 **Correo:** [tuemail@example.com](mailto:tuemail@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/alejandro-favela](https://linkedin.com/in/alejandro-favela)  
-🐦 **Twitter/X:** [twitter.com/afaveladev](https://twitter.com/afaveladev)  
-📸 **Instagram (opcional):** [instagram.com/afaveladev](https://instagram.com/afaveladev)
+📧 **Correo:** [alejandro.favela.dev@gmail.com](mailto:alefave2004@gmail.com)
+💼 **LinkedIn:** [Ernesto Alejandro Saucedo Favela](https://www.linkedin.com/in/ernesto-alejandro-saucedo-favela-7b30a2353/)
 
 ---
 
