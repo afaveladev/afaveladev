@@ -35,7 +35,7 @@
 
 ### 🌎 Encuéntrame en
 
-📧 **Correo:** alejandro.favela.dev@gmail.com
+📧 **Envíame un correo:** alejandro.favela.dev@gmail.com
 💼 **LinkedIn:** [Ernesto Alejandro Saucedo Favela](https://www.linkedin.com/in/ernesto-alejandro-saucedo-favela-7b30a2353/)
 
 
