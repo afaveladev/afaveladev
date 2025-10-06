@@ -38,6 +38,11 @@
 📧 **Correo:** [alejandro.favela.dev@gmail.com](mailto:alejandro.favela.dev@gmail.com)
 💼 **LinkedIn:** [Ernesto Alejandro Saucedo Favela](https://www.linkedin.com/in/ernesto-alejandro-saucedo-favela-7b30a2353/)
 
+### 🌎 Conectemos
+
+[📧 Envíame un correo](mailto:alejandro.favela.dev@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/ernesto-alejandro-saucedo-favela-7b30a2353/)
+
+
 ---
 
 ✨ _“El código no solo resuelve problemas, también crea oportunidades.”_  
